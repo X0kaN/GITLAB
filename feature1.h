@@ -1,0 +1,8 @@
+#pragma once
+#ifndef __FEATURE1_H__
+#define __FEATURE1_H__  
+
+double Sum(double, double);
+
+
+#endif // __FEATURE1_H__ 
